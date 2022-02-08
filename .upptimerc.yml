@@ -3,13 +3,13 @@ owner: JReyesPetroil
 repo: upptime # The name of this repository
 
 sites:
-  - name: Portal de Asociados
-    url: https://asociados.grupopetroil.com.mx
   - name: SIPP
     url: https://sipp.petroil.com.mx
+  - name: Portal de Clientes
+    url: https://asociados.petroil.com.mx  
   - name: Gitlab
     url: https://git.grupopetroil.com.mx
-  - name: Soporte
+  - name: HelpDesk
     url: https://soporte.petroil.dev
 
 assignees:
