@@ -6,18 +6,18 @@ sites:
   - name: SIPP
     url: https://sipp.petroil.com.mx
   - name: Portal de Clientes
-    url: https://asociados.petroil.com.mx  
+    url: https://asociados.petroil.com.mx
   - name: Gitlab
     url: https://git.grupopetroil.com.mx
   - name: HelpDesk
     url: https://soporte.petroil.dev
-  - name: Proyectos
+  - name: ProyectosTI
     url: https://proyectos.petroil.dev
-  - name: Sitios: Petroil.com.mx
+  - name: WPPetroil
     url: https://petroil.com.mx
-  - name: Sitios: GrupoPetroil.com.mx
+  - name: WPGrupoPetroil
     url: https://grupopetroil.com.mx
-  - name: Sitios: AeneFoods
+  - name: WPAeneFoods
     url: https://aenefoods.com.mx
 assignees:
   - JReyesPetroil
