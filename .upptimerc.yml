@@ -11,6 +11,14 @@ sites:
     url: https://git.grupopetroil.com.mx
   - name: HelpDesk
     url: https://soporte.petroil.dev
+  - name: Proyectos
+    url: https://proyectos.petroil.dev/
+  - name: Sitios: Petroil.com.mx
+    url: https://petroil.com.mx/
+  - name: Sitios: GrupoPetroil.com.mx
+    url: https://grupopetroil.com.mx/
+  - name: Sitios: AeneFoods
+    url: https://aenefoods.com.mx/
 
 assignees:
   - JReyesPetroil
@@ -26,7 +34,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://$OWNER.github.io/$REPO
 
