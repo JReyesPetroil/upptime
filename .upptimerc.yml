@@ -12,13 +12,13 @@ sites:
   - name: HelpDesk
     url: https://soporte.petroil.dev
   - name: Proyectos
-    url: https://proyectos.petroil.dev/
+    url: https://proyectos.petroil.dev
   - name: Sitios: Petroil.com.mx
-    url: https://petroil.com.mx/
+    url: https://petroil.com.mx
   - name: Sitios: GrupoPetroil.com.mx
-    url: https://grupopetroil.com.mx/
+    url: https://grupopetroil.com.mx
   - name: Sitios: AeneFoods
-    url: https://aenefoods.com.mx/
+    url: https://aenefoods.com.mx
 assignees:
   - JReyesPetroil
 
