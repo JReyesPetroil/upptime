@@ -13,6 +13,8 @@ sites:
     url: https://soporte.petroil.dev
   - name: ProyectosTI
     url: https://proyectos.petroil.dev
+  - name: OdooCRM
+    url: https://crm.grupopetroil.com.mx
   - name: WPPetroil
     url: https://petroil.com.mx
   - name: WPGrupoPetroil
