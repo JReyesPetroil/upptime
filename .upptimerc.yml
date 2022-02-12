@@ -14,7 +14,7 @@ sites:
   - name: ProyectosTI
     url: https://proyectos.petroil.dev
   - name: OdooCRM
-    url: https://crm.grupopetroil.com.mx
+    url: https://crm.grupopetroil.com.mx/web/login
   - name: WPPetroil
     url: https://petroil.com.mx
   - name: WPGrupoPetroil
@@ -31,7 +31,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime**"
   introMessage: Petroil
   navbar:
     - title: Status
