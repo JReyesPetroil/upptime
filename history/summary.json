@@ -58,9 +58,9 @@
     "url": "https://soporte.petroil.dev",
     "icon": "https://favicons.githubusercontent.com/soporte.petroil.dev",
     "slug": "help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 224,
     "timeMonth": 237,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   },
   {
     "name": "ProyectosTI",
