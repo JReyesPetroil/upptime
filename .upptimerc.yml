@@ -23,6 +23,10 @@ sites:
     url: https://grupopetroil.com.mx
   - name: WPAeneFoods
     url: https://aenefoods.com.mx
+  - name: rentabilidad
+    url: https://rentabilidad.grupopetroil.com.mx/
+  - name: tableros
+    url: https://tableros.petroil.com.mx/
 assignees:
   - JReyesPetroil
 
