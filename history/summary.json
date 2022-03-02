@@ -207,19 +207,19 @@
     "url": "https://tableros.petroil.com.mx/",
     "icon": "https://favicons.githubusercontent.com/tableros.petroil.com.mx",
     "slug": "tableros",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 5613,
-    "timeDay": 6895,
-    "timeWeek": 5613,
-    "timeMonth": 5613,
-    "timeYear": 5613,
+    "status": "up",
+    "uptime": "98.24%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
+    "time": 6155,
+    "timeDay": 7289,
+    "timeWeek": 6155,
+    "timeMonth": 6155,
+    "timeYear": 6155,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 29
     }
   }
 ]
