@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/soporte.petroil.dev",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "96.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
+    "uptime": "96.85%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
     "time": 234,
     "timeDay": 259,
     "timeWeek": 242,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-03-02": 1,
+      "2022-03-02": 21,
       "2022-02-23": 26,
       "2022-02-17": 919
     }
@@ -208,19 +208,19 @@
     "url": "https://tableros.petroil.com.mx/",
     "icon": "https://favicons.githubusercontent.com/tableros.petroil.com.mx",
     "slug": "tableros",
-    "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
-    "time": 6773,
-    "timeDay": 7821,
-    "timeWeek": 6773,
-    "timeMonth": 6773,
-    "timeYear": 6773,
+    "status": "up",
+    "uptime": "97.30%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "97.30%",
+    "time": 7362,
+    "timeDay": 8345,
+    "timeWeek": 7362,
+    "timeMonth": 7362,
+    "timeYear": 7362,
     "dailyMinutesDown": {
-      "2022-03-02": 29
+      "2022-03-02": 49
     }
   }
 ]
