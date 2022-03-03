@@ -1,7 +1,7 @@
 url: https://tableros.petroil.com.mx/
-status: down
-code: 500
-responseTime: 10778
-lastUpdated: 2022-03-03T17:24:52.374Z
+status: up
+code: 200
+responseTime: 11438
+lastUpdated: 2022-03-03T17:40:11.593Z
 startTime: Tue Mar 01 2022 00:30:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
