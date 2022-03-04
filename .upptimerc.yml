@@ -24,9 +24,9 @@ sites:
   - name: WPAeneFoods
     url: https://aenefoods.com.mx
   - name: rentabilidad
-    url: https://rentabilidad.grupopetroil.com.mx/
+    url: https://api.grupopetroil.com.mx/v1/rentabilidad
   - name: tableros
-    url: https://tableros.petroil.com.mx/
+    url: https://api.grupopetroil.com.mx/v1/dashboards
 assignees:
   - JReyesPetroil
 
