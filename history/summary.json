@@ -62,9 +62,9 @@
     "url": "https://soporte.petroil.dev",
     "icon": "https://favicons.githubusercontent.com/soporte.petroil.dev",
     "slug": "help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "96.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.42%",
     "uptimeYear": "96.46%",
@@ -74,6 +74,7 @@
     "timeMonth": 232,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-03-02": 625,
       "2022-02-23": 26,
       "2022-02-17": 919
