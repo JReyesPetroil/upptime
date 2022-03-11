@@ -33,9 +33,10 @@ assignees:
   - JReyesPetroil
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: estatus.petroil.dev
+  cname: estatus.petroil.dev
   # baseUrl: /upptime
   logoUrl: https://storage.googleapis.com/sipp-attachments/Empresas_Imagenes/imgReporte_Abastecedora_de_Combustibles.png
   # name: Upptime
