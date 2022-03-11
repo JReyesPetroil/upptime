@@ -39,8 +39,6 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://storage.googleapis.com/sipp-attachments/Empresas_Imagenes/imgReporte_Abastecedora_de_Combustibles.png
   name: upptime
-  # introTitle: "**Upptime**"
-  # introMessage: Petroil
   navbar: Estatus
     - title: Status
       href: /
