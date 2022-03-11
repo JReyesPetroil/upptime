@@ -39,7 +39,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://storage.googleapis.com/sipp-attachments/Empresas_Imagenes/imgReporte_Abastecedora_de_Combustibles.png
   name: upptime
-  navbar: Estatus
+  navbar:
     - title: Status
       href: /
     - title: GitHub
