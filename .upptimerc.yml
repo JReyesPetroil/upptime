@@ -27,6 +27,8 @@ sites:
     url: https://api.grupopetroil.com.mx/v1/rentabilidad
   - name: tableros
     url: https://api.grupopetroil.com.mx/v1/dashboards
+  - name: Personal
+    url: https://api.grupopetroil.com.mx/v1/personal/health
 assignees:
   - JReyesPetroil
 
@@ -35,15 +37,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://storage.googleapis.com/sipp-attachments/Empresas_Imagenes/imgReporte_Abastecedora_de_Combustibles.png
   name: Upptime
-  introTitle: "**Upptime**"
-  introMessage: Petroil
+  # introTitle: "**Upptime**"
+  # introMessage: Petroil
   navbar:
     - title: Status
       href: /$REPO
     - title: GitHub
-      href: https://$OWNER.github.io/$REPO
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
