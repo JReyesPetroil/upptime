@@ -23,9 +23,9 @@ sites:
     url: https://grupopetroil.com.mx
   - name: WPAeneFoods
     url: https://aenefoods.com.mx
-  - name: rentabilidad
+  - name: Rentabilidad
     url: https://api.grupopetroil.com.mx/v1/rentabilidad
-  - name: tableros
+  - name: Tableros
     url: https://api.grupopetroil.com.mx/v1/dashboards
   - name: Personal
     url: https://api.grupopetroil.com.mx/v1/personal/health
@@ -35,10 +35,10 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /upptime
+  # cname: estatus.petroil.dev
+  # baseUrl: /upptime
   logoUrl: https://storage.googleapis.com/sipp-attachments/Empresas_Imagenes/imgReporte_Abastecedora_de_Combustibles.png
-  name: Upptime
+  # name: Upptime
   # introTitle: "**Upptime**"
   # introMessage: Petroil
   navbar:
