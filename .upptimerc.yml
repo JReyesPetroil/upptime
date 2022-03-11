@@ -39,10 +39,10 @@ status-website:
   cname: estatus.petroil.dev
   # baseUrl: /upptime
   logoUrl: https://storage.googleapis.com/sipp-attachments/Empresas_Imagenes/imgReporte_Abastecedora_de_Combustibles.png
-  name:
+  name: health
   # introTitle: "**Upptime**"
   # introMessage: Petroil
-  navbar:
+  navbar: Estatus
     - title: Status
       href: /
     - title: GitHub
