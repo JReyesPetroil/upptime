@@ -192,19 +192,19 @@
     "url": "https://aenefoods.com.mx",
     "icon": "https://favicons.githubusercontent.com/aenefoods.com.mx",
     "slug": "wp-aene-foods",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 668,
-    "timeDay": 313,
-    "timeWeek": 606,
-    "timeMonth": 743,
+    "timeDay": 440,
+    "timeWeek": 616,
+    "timeMonth": 742,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-05-24": 0
+      "2022-05-24": 13
     }
   },
   {
