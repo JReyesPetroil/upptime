@@ -1,7 +1,7 @@
 url: https://git.grupopetroil.com.mx
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2022-05-30T23:23:57.904Z
+status: down
+code: 502
+responseTime: 243
+lastUpdated: 2022-05-31T03:48:22.491Z
 startTime: Tue Feb 08 2022 23:36:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
