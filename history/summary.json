@@ -158,28 +158,30 @@
     "url": "https://petroil.com.mx",
     "icon": "https://favicons.githubusercontent.com/petroil.com.mx",
     "slug": "wp-petroil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 465,
     "timeWeek": 570,
     "timeMonth": 524,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 3
+    }
   },
   {
     "name": "WPGrupoPetroil",
     "url": "https://grupopetroil.com.mx",
     "icon": "https://favicons.githubusercontent.com/grupopetroil.com.mx",
     "slug": "wp-grupo-petroil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
@@ -187,16 +189,18 @@
     "timeWeek": 401,
     "timeMonth": 313,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 2
+    }
   },
   {
     "name": "WPAeneFoods",
     "url": "https://aenefoods.com.mx",
     "icon": "https://favicons.githubusercontent.com/aenefoods.com.mx",
     "slug": "wp-aene-foods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,7 +209,9 @@
     "timeWeek": 843,
     "timeMonth": 706,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Rentabilidad",
