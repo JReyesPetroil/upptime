@@ -1,7 +1,7 @@
 url: https://api.grupopetroil.com.mx/v1/dashboards
-status: down
-code: 503
-responseTime: 55
-lastUpdated: 2022-06-21T20:20:48.520Z
+status: up
+code: 200
+responseTime: 67
+lastUpdated: 2022-06-21T20:37:41.379Z
 startTime: Tue Mar 01 2022 00:30:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
