@@ -1,7 +1,7 @@
 url: https://sipp.petroil.com.mx
-status: down
-code: 503
-responseTime: 203
-lastUpdated: 2023-11-02T05:34:17.940Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2023-11-02T09:22:06.853Z
 startTime: 2022-02-08T23:36:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
