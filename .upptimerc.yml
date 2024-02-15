@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: SIPP
-    url: https://sipp.petroil.com.mx
+    url: https://sipp.petroil.com.mx/login.html
   - name: Portal de Clientes
     url: https://asociados.petroil.com.mx
   - name: Gitlab
@@ -17,11 +17,7 @@ sites:
     url: https://crm.grupopetroil.com.mx/web/login
   - name: Pyxoom
     url: https://pyxoom.grupopetroil.com.mx/Helper/Home/Login
-  - name: WPPetroil
-    url: https://petroil.com.mx
-  - name: WPGrupoPetroil
-    url: https://grupopetroil.com.mx
-  - name: WPAeneFoods
+  - name: CPanel Paginas web
     url: https://aenefoods.com.mx
   - name: Rentabilidad
     url: https://api.grupopetroil.com.mx/v1/rentabilidad
