@@ -18,7 +18,7 @@ sites:
   - name: Pyxoom
     url: https://pyxoom.grupopetroil.com.mx/Helper/Home/Login
   - name: CPanel Paginas web
-    url: https://aenefoods.com.mx
+    url: https://petroil.com.mx/contacto/
   - name: Rentabilidad
     url: https://api.grupopetroil.com.mx/v1/rentabilidad
   - name: Tableros
