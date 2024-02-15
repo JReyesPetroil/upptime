@@ -48,18 +48,19 @@
     "url": "https://git.grupopetroil.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/git.grupopetroil.com.mx.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 379,
-    "timeDay": 256,
-    "timeWeek": 308,
-    "timeMonth": 301,
+    "timeDay": 224,
+    "timeWeek": 289,
+    "timeMonth": 295,
     "timeYear": 386,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2023-12-19": 62,
       "2023-08-23": 18,
       "2023-08-03": 19,
@@ -242,7 +243,7 @@
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2024-02-15": 1069
+      "2024-02-15": 1132
     }
   },
   {
