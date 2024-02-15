@@ -29,6 +29,8 @@ sites:
     url: https://api.grupopetroil.com.mx/v1/dashboards
   - name: Personal
     url: https://api.grupopetroil.com.mx/v1/personal/health
+  - name: Moodle Estudios Profesionales
+    url: https://elearning.imexaa.mx/
 assignees:
   - JReyesPetroil
 
