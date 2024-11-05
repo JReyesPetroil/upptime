@@ -197,7 +197,7 @@
     "timeMonth": 105,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-11-05": 69,
+      "2024-11-05": 323,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -544,17 +544,19 @@
     "url": "https://elearning.imexaa.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.imexaa.mx.ico",
     "slug": "moodle-estudios-profesionales",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 183,
-    "timeWeek": 328,
-    "timeMonth": 305,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 131,
+    "timeWeek": 296,
+    "timeMonth": 298,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   }
 ]
