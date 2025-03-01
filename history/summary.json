@@ -13,7 +13,7 @@
     "time": 217,
     "timeDay": 130,
     "timeWeek": 205,
-    "timeMonth": 214,
+    "timeMonth": 222,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-08-28": 21
@@ -51,7 +51,7 @@
     "time": 341,
     "timeDay": 148,
     "timeWeek": 267,
-    "timeMonth": 300,
+    "timeMonth": 307,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-02-14": 26,
@@ -81,7 +81,7 @@
     "time": 208,
     "timeDay": 127,
     "timeWeek": 188,
-    "timeMonth": 220,
+    "timeMonth": 223,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-02-08": 22,
@@ -105,7 +105,7 @@
     "time": 328,
     "timeDay": 230,
     "timeWeek": 358,
-    "timeMonth": 351,
+    "timeMonth": 357,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2025-02-06": 20,
@@ -141,7 +141,7 @@
     "time": 524,
     "timeDay": 295,
     "timeWeek": 456,
-    "timeMonth": 508,
+    "timeMonth": 521,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2025-02-06": 18
@@ -161,7 +161,7 @@
     "time": 326,
     "timeDay": 205,
     "timeWeek": 316,
-    "timeMonth": 583,
+    "timeMonth": 618,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2024-10-16": 1125,
@@ -177,13 +177,13 @@
     "status": "up",
     "uptime": "92.94%",
     "uptimeDay": "35.97%",
-    "uptimeWeek": "8.71%",
-    "uptimeMonth": "11.81%",
+    "uptimeWeek": "9.33%",
+    "uptimeMonth": "14.27%",
     "uptimeYear": "92.65%",
     "time": 233,
     "timeDay": 419,
-    "timeWeek": 378,
-    "timeMonth": 388,
+    "timeWeek": 374,
+    "timeMonth": 393,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-02-28": 923,
@@ -231,7 +231,7 @@
     "time": 233,
     "timeDay": 73,
     "timeWeek": 158,
-    "timeMonth": 296,
+    "timeMonth": 314,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-01-09": 20,
@@ -257,7 +257,7 @@
     "time": 44,
     "timeDay": 20,
     "timeWeek": 35,
-    "timeMonth": 40,
+    "timeMonth": 42,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-01-18": 24,
@@ -279,15 +279,15 @@
     "slug": "personal",
     "status": "up",
     "uptime": "95.95%",
-    "uptimeDay": "13.41%",
-    "uptimeWeek": "1.92%",
+    "uptimeDay": "19.52%",
+    "uptimeWeek": "2.79%",
     "uptimeMonth": "73.95%",
     "uptimeYear": "95.36%",
     "time": 312,
     "timeDay": 104,
     "timeWeek": 2556,
-    "timeMonth": 908,
-    "timeYear": 405,
+    "timeMonth": 995,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2025-02-28": 1236,
       "2025-02-27": 1440,
@@ -332,7 +332,7 @@
     "time": 303,
     "timeDay": 208,
     "timeWeek": 300,
-    "timeMonth": 308,
+    "timeMonth": 314,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2024-11-05": 29
