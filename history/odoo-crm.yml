@@ -1,7 +1,7 @@
 url: https://crm.grupopetroil.com.mx/web/login
-status: down
-code: 502
-responseTime: 348
-lastUpdated: 2025-03-05T17:49:27.465Z
+status: up
+code: 200
+responseTime: 592
+lastUpdated: 2025-03-05T18:14:51.691Z
 startTime: 2022-02-11T01:43:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
