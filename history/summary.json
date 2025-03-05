@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sipp.petroil.com.mx.ico",
     "slug": "sipp",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -52,7 +52,7 @@
     "timeDay": 420,
     "timeWeek": 322,
     "timeMonth": 316,
-    "timeYear": 348,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2025-02-14": 26,
       "2025-01-13": 29,
@@ -98,7 +98,7 @@
     "slug": "proyectos-ti",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "72.87%",
+    "uptimeDay": "74.54%",
     "uptimeWeek": "85.61%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "97.57%",
@@ -106,7 +106,7 @@
     "timeDay": 568,
     "timeWeek": 412,
     "timeMonth": 383,
-    "timeYear": 337,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-03-05": 324,
       "2025-03-04": 903,
@@ -146,7 +146,7 @@
     "timeDay": 540,
     "timeWeek": 519,
     "timeMonth": 528,
-    "timeYear": 543,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2025-03-05": 25,
       "2025-02-06": 18
@@ -167,7 +167,7 @@
     "timeDay": 427,
     "timeWeek": 335,
     "timeMonth": 626,
-    "timeYear": 331,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-10-16": 1125,
       "2024-10-15": 513,
@@ -179,16 +179,16 @@
     "url": "https://petroil.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/petroil.com.mx.ico",
     "slug": "c-panel-paginas-web",
-    "status": "up",
-    "uptime": "93.46%",
-    "uptimeDay": "31.03%",
-    "uptimeWeek": "26.09%",
-    "uptimeMonth": "17.27%",
-    "uptimeYear": "93.10%",
+    "status": "down",
+    "uptime": "93.49%",
+    "uptimeDay": "32.67%",
+    "uptimeWeek": "26.33%",
+    "uptimeMonth": "17.61%",
+    "uptimeYear": "93.13%",
     "time": 264,
-    "timeDay": 476,
-    "timeWeek": 412,
-    "timeMonth": 409,
+    "timeDay": 463,
+    "timeWeek": 410,
+    "timeMonth": 408,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-03-05": 932,
@@ -218,7 +218,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 805
+      "2025-02-06": 654
     }
   },
   {
@@ -284,14 +284,14 @@
     "status": "up",
     "uptime": "95.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.79%",
+    "uptimeWeek": "73.03%",
     "uptimeMonth": "73.95%",
     "uptimeYear": "95.36%",
     "time": 300,
     "timeDay": 106,
     "timeWeek": 2307,
     "timeMonth": 732,
-    "timeYear": 405,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2025-02-28": 1236,
       "2025-02-27": 1440,
@@ -337,7 +337,7 @@
     "timeDay": 370,
     "timeWeek": 311,
     "timeMonth": 320,
-    "timeYear": 308,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2024-11-05": 29
     }
