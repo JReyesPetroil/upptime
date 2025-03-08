@@ -127,8 +127,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 140,
-      "2024-03-09": 75,
-      "2024-03-08": 42
+      "2024-03-09": 75
     }
   },
   {
@@ -181,8 +180,8 @@
     "slug": "c-panel-paginas-web",
     "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "25.55%",
-    "uptimeWeek": "27.19%",
+    "uptimeDay": "30.68%",
+    "uptimeWeek": "27.23%",
     "uptimeMonth": "80.90%",
     "uptimeYear": "98.41%",
     "time": 276,
@@ -265,16 +264,17 @@
     "status": "down",
     "uptime": "95.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.31%",
-    "uptimeMonth": "70.34%",
-    "uptimeYear": "95.06%",
+    "uptimeWeek": "83.57%",
+    "uptimeMonth": "70.17%",
+    "uptimeYear": "95.05%",
     "time": 300,
     "timeDay": 55,
     "timeWeek": 73,
     "timeMonth": 709,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2025-03-07": 1425,
+      "2025-03-08": 59,
+      "2025-03-07": 1440,
       "2025-03-06": 157,
       "2025-02-28": 1236,
       "2025-02-27": 1440,
