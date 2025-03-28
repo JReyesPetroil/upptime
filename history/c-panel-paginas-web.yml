@@ -1,7 +1,7 @@
 url: https://petroil.com.mx
-status: up
-code: 200
-responseTime: 808
-lastUpdated: 2025-03-28T13:31:20.206Z
+status: down
+code: 403
+responseTime: 151
+lastUpdated: 2025-03-28T13:58:22.564Z
 startTime: 2024-02-15T00:04:31.153Z
 generator: Upptime <https://github.com/upptime/upptime>
