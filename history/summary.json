@@ -175,15 +175,15 @@
     "url": "https://petroil.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/petroil.com.mx.ico",
     "slug": "c-panel-paginas-web",
-    "status": "up",
-    "uptime": "97.89%",
-    "uptimeDay": "54.96%",
-    "uptimeWeek": "24.63%",
-    "uptimeMonth": "71.59%",
-    "uptimeYear": "97.63%",
+    "status": "down",
+    "uptime": "97.90%",
+    "uptimeDay": "56.01%",
+    "uptimeWeek": "24.77%",
+    "uptimeMonth": "71.75%",
+    "uptimeYear": "97.65%",
     "time": 337,
-    "timeDay": 473,
-    "timeWeek": 446,
+    "timeDay": 462,
+    "timeWeek": 443,
     "timeMonth": 438,
     "timeYear": 347,
     "dailyMinutesDown": {
@@ -199,7 +199,7 @@
       "2025-03-20": 753,
       "2025-03-19": 888,
       "2025-03-18": 916,
-      "2025-03-17": 410
+      "2025-03-17": 338
     }
   },
   {
@@ -266,7 +266,7 @@
     "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.46%",
+    "uptimeMonth": "86.49%",
     "uptimeYear": "94.25%",
     "time": 321,
     "timeDay": 27,
