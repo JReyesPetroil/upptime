@@ -103,7 +103,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.64%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.69%",
     "time": 333,
     "timeDay": 235,
     "timeWeek": 304,
@@ -122,8 +122,7 @@
       "2024-09-22": 1440,
       "2024-09-21": 17,
       "2024-08-15": 449,
-      "2024-08-09": 303,
-      "2024-04-01": 1087
+      "2024-08-09": 303
     }
   },
   {
@@ -174,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/petroil.com.mx.ico",
     "slug": "c-panel-paginas-web",
     "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "52.03%",
-    "uptimeWeek": "42.70%",
-    "uptimeMonth": "73.37%",
-    "uptimeYear": "97.78%",
+    "uptime": "98.02%",
+    "uptimeDay": "53.40%",
+    "uptimeWeek": "43.83%",
+    "uptimeMonth": "73.27%",
+    "uptimeYear": "97.77%",
     "time": 341,
-    "timeDay": 403,
+    "timeDay": 388,
     "timeWeek": 433,
     "timeMonth": 435,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-03-31": 684,
+      "2025-03-31": 671,
       "2025-03-30": 558,
       "2025-03-29": 513,
       "2025-03-28": 665,
@@ -197,7 +196,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 731,
       "2025-03-20": 753,
-      "2025-03-19": 104
+      "2025-03-19": 158
     }
   },
   {
