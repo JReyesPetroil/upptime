@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.grupopetroil.com.mx.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.78%",
@@ -172,15 +172,15 @@
     "url": "https://petroil.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/petroil.com.mx.ico",
     "slug": "c-panel-paginas-web",
-    "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "89.79%",
-    "uptimeWeek": "68.63%",
-    "uptimeMonth": "74.69%",
-    "uptimeYear": "97.89%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "74.76%",
+    "uptimeYear": "97.90%",
     "time": 346,
-    "timeDay": 491,
-    "timeWeek": 445,
+    "timeDay": 460,
+    "timeWeek": 444,
     "timeMonth": 442,
     "timeYear": 357,
     "dailyMinutesDown": {
@@ -197,7 +197,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 391
+      "2025-03-21": 361
     }
   },
   {
