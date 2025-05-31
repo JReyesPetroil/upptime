@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/soporte.petroil.dev.ico",
     "slug": "help-desk",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -148,7 +148,7 @@
     "timeDay": 436,
     "timeWeek": 568,
     "timeMonth": 576,
-    "timeYear": 545,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2025-03-05": 25,
       "2025-02-06": 18
@@ -181,11 +181,11 @@
     "url": "https://petroil.com.mx",
     "icon": "https://icons.duckduckgo.com/ip3/petroil.com.mx.ico",
     "slug": "c-panel-paginas-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.95%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "98.05%",
     "time": 377,
     "timeDay": 5666,
@@ -193,6 +193,7 @@
     "timeMonth": 930,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-05-01": 853,
       "2025-04-30": 1440,
       "2025-04-29": 77,
@@ -212,7 +213,7 @@
       "2025-04-01": 364,
       "2025-03-31": 671,
       "2025-03-30": 558,
-      "2025-03-29": 360
+      "2025-03-29": 340
     }
   },
   {
@@ -276,10 +277,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.grupopetroil.com.mx.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.92%",
+    "uptimeMonth": "80.58%",
     "uptimeYear": "92.31%",
     "time": 341,
     "timeDay": 103,
