@@ -1,7 +1,7 @@
 url: https://pyxoom.grupopetroil.com.mx/Helper/Home/Login
-status: up
-code: 200
-responseTime: 427
-lastUpdated: 2025-07-11T21:26:12.138Z
+status: down
+code: 403
+responseTime: 122
+lastUpdated: 2025-07-11T21:55:58.585Z
 startTime: 2022-02-16T17:18:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
