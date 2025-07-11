@@ -1,7 +1,7 @@
 url: https://api.grupopetroil.com.mx/v1/rentabilidad
-status: down
-code: 502
-responseTime: 3697
-lastUpdated: 2025-07-11T20:24:00.420Z
+status: up
+code: 200
+responseTime: 198
+lastUpdated: 2025-07-11T20:44:12.180Z
 startTime: 2022-03-01T00:30:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
