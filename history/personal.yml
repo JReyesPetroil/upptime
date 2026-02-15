@@ -1,7 +1,7 @@
 url: https://api.grupopetroil.com.mx/v1/personal/health
-status: down
-code: 503
-responseTime: 34
-lastUpdated: 2026-02-15T11:00:55.496Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2026-02-15T11:32:56.370Z
 startTime: 2022-03-11T16:53:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
